@@ -1,0 +1,35 @@
+* {height: 100%;}
+
+        body {
+            background-image: linear-gradient(to bottom, pink, #c45ac4,#7e14ff, #6464ca, #89cff0);}
+        
+        h1 {
+        
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: black;
+            width: auto;
+            height: auto;
+        }
+        
+    
+        h3
+        {
+            color: black;
+            width: auto;
+            height: auto;
+        }
+        
+        p {
+            color: black;
+            width: auto;
+            height: auto;
+        }
+        
+        #Eu 
+        {
+            font-family: cursive, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-align: center;
+            font-size: 100px;
+            width: auto;
+            height: auto;
+        }
